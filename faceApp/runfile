@@ -1,0 +1,2 @@
+#!/usr/bin/env python3
+sudo chmod u+x /home/jpv/faceApp/venv/bin/python /home/jpv/faceApp/faceApp.py --shape-predictor /home/jpv/faceApp/shape_predictor_68_face_landmarks.dat
